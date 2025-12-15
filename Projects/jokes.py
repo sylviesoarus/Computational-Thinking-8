@@ -1,4 +1,4 @@
-print("why dont skeletons fight eachother")
+print("why dont skeletons fight each other")
 input("")
 print("because they dont have the guts")
 input("")
